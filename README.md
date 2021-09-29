@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi world!
+Keith(my nickname) talking here, just want to let everyone know that i am here for the vibes.
